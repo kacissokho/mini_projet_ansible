@@ -1,1 +1,4 @@
-ansible_password:
+ansible_password: admin
+ansible_host: XXXX
+ansible_become: true 
+ansible_become_password: admin
